@@ -1,0 +1,41 @@
+100
+Go, 10, false
+Bag End, 2, false
+Events, 4, true
+Farmer Maggots, 3, false
+Seen By The Palantir, -2, false
+Bill The Pony, 5, false
+Buckleberry Ferry, 4, false
+People, -7, true
+Bree, 5, false
+Weathertop, 5, false
+Jail, 0, false
+Ford Of Bruinen, 6, false
+Staff Of Gandalf, 12, false
+Rivendell, 7, false
+Caradhras, 7, false
+Asfaloth, 5, false
+Mines Of Moria, 8, false
+Events, 4, true
+Lothlorien, 9, false
+Falls of Rauros, 9, false
+Free Parking, 0, false
+Gap Of Rohan, 10, false
+People, -14, true
+Helm’s Deep, 11, false
+Edoras, 11, false
+Brego, 5, false
+Fangorn Forest, 12, false
+Westfold, 13, false
+Staff Of Saruman, 12, false
+Isengard, 13, false
+Go To Jail, -15, false
+Osgiliath, 14, false
+Pelennor Fields, 15, false
+Events, 4, true
+Minas Tirith, 15, false
+Shadowfax, 5, false
+People, -20, true
+Barad-dur, 16, false
+Shelob’s Lair, -10, false
+Mount Doom, 17, false
